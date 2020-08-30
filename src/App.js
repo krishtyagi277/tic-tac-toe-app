@@ -104,7 +104,7 @@ function App() {
        <Row>
          <Col md={6} className="offset-md-3">
          <div className="mb-2 mt-2">
-         <h1 className="text-success text-uppercase text-center">
+         <h1 className="text-primary text-uppercase text-center">
                  Tic-Tac-Toe App <Icon name="cross"/> VS <Icon name="circle"/>
                </h1>
          </div>
